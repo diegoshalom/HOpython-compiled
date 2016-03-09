@@ -14,8 +14,3 @@ de la librería
 gcc -c -fPIC add_two.c -o add_two.o
 gcc -c -fPIC arrays.c -o arrays.o
 
-2. 
-gcc. -shared add_two.o arrays.o -o myfirstdl.so
-
-3.
-
